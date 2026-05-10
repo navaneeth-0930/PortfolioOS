@@ -155,7 +155,7 @@ Designed as a clean and professional corporate landing page, showcasing the comp
                 </p>
                 <br />
                 <div className="captioned-image">
-                    <a href='c:\Users\Navaneeth\Downloads\Lab formatter.png' target="_blank" rel="noreferrer">
+                    <a href={Lab} target="_blank" rel="noreferrer">
                         <img src={Lab} alt="Lab Formatter" />
                     </a>
                     <p style={styles.caption}>
