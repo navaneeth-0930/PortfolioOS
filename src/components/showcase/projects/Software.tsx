@@ -6,7 +6,6 @@ import oofdi from '../../../assets/pictures/projects/software/OOFDI.png';
 // @ts-ignore
 import Lab from '../../../assets/pictures/projects/software/Lab formatter.png';
 import ResumeDownload from '../ResumeDownload';
-import VideoAsset from '../../general/VideoAsset';
 
 export interface SoftwareProjectsProps {}
 

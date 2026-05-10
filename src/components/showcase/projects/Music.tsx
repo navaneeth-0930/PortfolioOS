@@ -4,12 +4,7 @@ import dandalions from '../../../assets/audio/Dandalions.m4a';
 // @ts-ignore
 import Story from '../../../assets/audio/Story_of_my_life.mp3';
 // @ts-ignore
-import gig1 from '../../../assets/videos/gig1.mp4';
-// @ts-ignore
 import gig2 from '../../../assets/videos/gig2.mp4';
-// @ts-ignore
-import dnbDrums from '../../../assets/audio/dnb_drop_drums.mp3';
-import dnbDrumsProject from '../../../assets/pictures/projects/audio/dnbDrumsProject.png';
 import { MusicPlayer } from '../../general';
 
 export interface MusicProjectsProps {}
