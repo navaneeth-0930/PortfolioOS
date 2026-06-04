@@ -15,8 +15,14 @@ const About: React.FC<AboutProps> = (props) => {
             <br />
             <div className="text-block">
                 <p>
-                    I'm a web developer who is currently Pursing his Degree in Computer Science and Design!
-                    I am currently Based in Kerala, India and am open to full time opportunities. I have a passion for building things and am always looking for new and exciting projects to work on. I have experience with a wide range of technologies, including React, Node.js, and more. I am also a quick learner and am always looking to expand my skill set.
+                    I'm a web developer who is currently pursuing his degree in
+                    Computer Science and Design! I am currently based in Kerala,
+                    India and am open to full-time opportunities. I have a
+                    passion for building things and am always looking for new
+                    and exciting projects to work on. I have experience with a
+                    wide range of technologies, including React, Node.js, and
+                    more. I am also a quick learner and am always looking to
+                    expand my skill set.
                 </p>
                 <br />
                 <p>
@@ -35,7 +41,21 @@ const About: React.FC<AboutProps> = (props) => {
                 <h3>About Me</h3>
                 <br />
                 <p>
-                    From a young age itself i was really curious about how things worked.I was given my first computer when i was 10 and i was immediately hooked. I started Learning about how things worked and how things are made in a computer. I was fascinated by the idea of being able to create something out of nothing and I knew that I wanted to be a part of that world. I started learning how to code and slowly but surely I started building my own projects and learning new technologies.I was fasicnated by the world of web development when i was 16 and I knew that I wanted to be a part of that world. I started learning how to build websites and web applications and I quickly fell in love with the field. I love the idea of being able to create something that can be accessed by anyone in the world and I am always looking for new and exciting projects to work on.  
+                    From a young age itself I was really curious about how
+                    things worked. I was given my first computer when I was 10
+                    and I was immediately hooked. I started learning about how
+                    things worked and how things are made in a computer. I was
+                    fascinated by the idea of being able to create something out
+                    of nothing and I knew that I wanted to be a part of that
+                    world. I started learning how to code and slowly but surely
+                    I started building my own projects and learning new
+                    technologies. I was fascinated by the world of web
+                    development when I was 16 and I knew that I wanted to be a
+                    part of that world. I started learning how to build websites
+                    and web applications and I quickly fell in love with the
+                    field. I love the idea of being able to create something
+                    that can be accessed by anyone in the world and I am always
+                    looking for new and exciting projects to work on.
                 </p>
                 <br />
                 <div className="captioned-image">
@@ -49,9 +69,11 @@ const About: React.FC<AboutProps> = (props) => {
                 </div>
 
                 <p>
-                    I started programming more seriously by my senior year of high school,
-                    initially learning how to build and create websites.
-                    I experimented with a lot of platforms and landed my first intership at the age of 17 before my Collage year Started at {' '}
+                    I started programming more seriously by my senior year of
+                    high school, initially learning how to build and create
+                    websites. I experimented with a lot of platforms and landed
+                    my first internship at the age of 17 before my college year
+                    started at{' '}
                     <a
                         rel="noreferrer"
                         target="_blank"
@@ -59,20 +81,23 @@ const About: React.FC<AboutProps> = (props) => {
                     >
                         Devou
                     </a>
-                    . I worked on many projects in there, including Building Websites for Oversease Clients unsing Wordpress,
-                    multiple Local projects, SEOs, and more. One of these
-                    projects is viewable on my{' '}
-                    <Link to="/projects/software"> Projects</Link> page.
+                    . I worked on many projects there, including building
+                    websites for overseas clients using WordPress, multiple
+                    local projects, SEO, and more. One of these projects is
+                    viewable on my <Link to="/projects/software">Projects</Link>{' '}
+                    page.
                 </p>
                 <br />
                 <p>
-                    In 2025, I got accepted into Viswajyothi College of Engineering and Technology,
-                    to study Computer Science and Design. It was my first choice
-                    and I was absolutely ecstatic to be going to such a great
-                    university. At the end of my First year, I Did a lot of Community Works and Volunteering,
-                    along with my internship at Devou, I continued to work at Devou on and off
-                    for about a year and a half, until the start of my Second
-                    year when I decided to focus on other opportunities.
+                    In 2025, I got accepted into Viswajyothi College of
+                    Engineering and Technology to study Computer Science and
+                    Design. It was my first choice and I was absolutely ecstatic
+                    to be going to such a great university. At the end of my
+                    first year, I did a lot of community work and volunteering,
+                    along with my internship at Devou. I continued to work at
+                    Devou on and off for about a year and a half, until the
+                    start of my second year when I decided to focus on other
+                    opportunities.
                 </p>
                 <br />
                 <br />
@@ -91,22 +116,28 @@ const About: React.FC<AboutProps> = (props) => {
                             Beyond software, I have a lot of hobbies that I
                             enjoy doing in my free time. The more tangible
                             hobbies I have are{' '}
-                            <Link to="/projects/music">Music</Link>{' '}
-                            and creating{' '}
-                            <Link to="/projects/art">Digital Art & Posters </Link>. You can
-                            read more about each of these on their respective
-                            pages under my projects tab. Some other hobbies I
-                            enjoy are working out, cooking, and (unsurprisingly)
-                            playing video games, Traveling etc .When it comes to me i am someone who is always looking for new and exciting things to do and I am always open to trying new things. I am a very curious person and I love learning about new things, whether it's a new technology or a new hobby. I am always looking for ways to improve myself and explore evreything that the world has to offer.
+                            <Link to="/projects/music">Music</Link> and creating{' '}
+                            <Link to="/projects/art">Digital Art & Posters</Link>
+                            . You can read more about each of these on their
+                            respective pages under my projects tab. Some other
+                            hobbies I enjoy are working out, cooking, and
+                            (unsurprisingly) playing video games, traveling,
+                            etc. When it comes to me, I am someone who is always
+                            looking for new and exciting things to do and I am
+                            always open to trying new things. I am a very
+                            curious person and I love learning about new things,
+                            whether it's a new technology or a new hobby. I am
+                            always looking for ways to improve myself and
+                            explore everything that the world has to offer.
                         </p>
                         <br />
                         <p>
-                            In college, I was an active member in the Tinker Hub Community,
-                            Where I met a lot of amazing people through
-                            my involvement and thoroughly enjoyed the community.
+                            In college, I was an active member in the TinkerHub
+                            community, where I met a lot of amazing people
+                            through my involvement and thoroughly enjoyed the
+                            community.
                         </p>
                     </div>
-                    
                 </div>
                 <br />
                 <br />
@@ -121,7 +152,7 @@ const About: React.FC<AboutProps> = (props) => {
                     them. You can reach me through the{' '}
                     <Link to="/contact">contact page</Link> or shoot me an email
                     at{' '}
-                    <a href="mailto:navaneeth0930@gmail.com.com">
+                    <a href="mailto:navaneeth0930@gmail.com">
                         navaneeth0930@gmail.com
                     </a>
                 </p>

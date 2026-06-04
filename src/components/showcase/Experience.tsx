@@ -34,7 +34,8 @@ const Experience: React.FC<ExperienceProps> = (props) => {
  builds modern websites, AI-powered workflows, and scalable digital products. Developed using technologies like React, TypeScript, Framer Motion, Express, and modern automation tools, Devou focuses on fast, high-performance experiences that combine design, development, and intelligent business automation.
                 </p>
                 <br />
-                <p>                   During my time at Devou, I worked on a wide range of projects, including building websites for overseas clients using Wordpress, multiple local projects, SEOs, and more. One of these projects is viewable on my <Link to="/projects/software">Projects</Link> page. I also got the opportunity to work on a lot of different aspects of the business, including client communication, project management, and more. I really enjoyed my time at Devou and I am grateful for the opportunity to have worked with such a great team and on such a wide range of projects. I learned a lot during my time there and I am excited to take everything I learned and apply it to future opportunities.
+                <p>
+                    During my time at Devou, I worked on a wide range of projects, including building websites for overseas clients using WordPress, multiple local projects, SEO, and more. One of these projects is viewable on my <Link to="/projects/software">Projects</Link> page. I also had the opportunity to work on many different aspects of the business, including client communication and project management. I thoroughly enjoyed my time at Devou and am grateful for the opportunity to have worked with such a great team on such a wide range of projects. I learned a great deal during my time there and am excited to apply those skills to future opportunities.
                 </p>
             </div>
         </div>

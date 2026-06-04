@@ -130,10 +130,10 @@ const Contact: React.FC<ContactProps> = (props) => {
             </div>
             <div className="text-block">
                 <p>
-                    I am currently Open to work,  if you have any
-                    opportunities, feel free to reach out - I would love to
-                    chat! You can reach me via my personal email, or fill out
-                    the form below!
+                    I am currently open to work; if you have any
+                    opportunities, please feel free to reach out — I would love to
+                    chat! You can reach me via my personal email, or by filling out
+                    the form below.
                 </p>
                 <br />
                 <p>
